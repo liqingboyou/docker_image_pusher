@@ -12,3 +12,4 @@ ghcr.io/sysadminsmedia/homebox:latest
 itushan/mtab
 vaultwarden/server:latest
 gitea/gitea
+jlesage/firefox
