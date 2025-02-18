@@ -8,4 +8,7 @@ python:alpine3.19
 docker.io/jc21/nginx-proxy-manager:latest
 gdy666/lucky
 kasmweb/chrome:1.14.0
-kasmweb/desktop
+ghcr.io/sysadminsmedia/homebox:latest
+itushan/mtab
+vaultwarden/server:latest
+gitea/gitea
