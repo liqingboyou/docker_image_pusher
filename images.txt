@@ -13,3 +13,4 @@ vaultwarden/server:latest
 gitea/gitea
 jlesage/firefox
 filebrowser/filebrowser
+jonnyan404/verysync
