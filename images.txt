@@ -1,1 +1,1 @@
-nextcloud/all-in-one
+mysql:9.7
