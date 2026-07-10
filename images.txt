@@ -1,1 +1,1 @@
-mysql:9.7
+postgres:18.4
