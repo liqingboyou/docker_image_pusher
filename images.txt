@@ -1,1 +1,1 @@
-rabbitmq:4.3.2
+memcached:1.6.44
