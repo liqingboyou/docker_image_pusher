@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2025-latest
+nfs-subdir-external-provisioner:v4.0.2
